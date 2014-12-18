@@ -33,5 +33,5 @@
     "cordova plugin"
   ],
   "license": "MIT",
-  "private": false
+  "private": true
 }
